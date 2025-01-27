@@ -18,7 +18,7 @@ Buscamos generar un plan que indique a cada persona que comparte su coche ese me
 2. Descargar el directorio [Directorio EXEC](EXEX) 
 3. Ejecuta el siguiente comando:
    
- 
+ ```
     make all
     
 
