@@ -15,7 +15,7 @@ Buscamos generar un plan que indique a cada persona que comparte su coche ese me
 
 ## Cómo ejecutar
 1. Abre una terminal.
-2. Descargar el directorio [Directorio EXEC](EXEX)
+2. Descargar el directorio [Directorio EXEC](/EXEC)
    
 4. Ejecuta el siguiente comando:
  ```
