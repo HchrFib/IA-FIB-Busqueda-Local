@@ -10,5 +10,16 @@ Buscamos generar un plan que indique a cada persona que comparte su coche ese me
 - Algoritmo de Simulated Annealing
 - Algoritmo de Hill Climbing
 
+## Requisitos
+- Java 11 o superior instalado en tu sistema.
+
+## Cómo ejecutar
+1. Abre una terminal.
+2. Descargar el directorio [Directorio EXEC](EXEX) 
+3. Ejecuta el siguiente comando:
+   > make run
+Ejecutará el programa en un terminal.
+   
+
 
   
