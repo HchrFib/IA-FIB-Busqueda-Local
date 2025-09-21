@@ -24,4 +24,4 @@ git clone https://github.com/HchrFib/IA-FIB-Busqueda-Local.git
    
 4. Ejecuta el siguiente comando:
  ```
-    make all
+    make 
